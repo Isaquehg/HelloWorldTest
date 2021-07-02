@@ -4,6 +4,6 @@
 Testing **MarkDown**
 
 Langs I like:
-* C++
-* Python
-* Go
+* `C++`
+* `Python`
+* `Go`
